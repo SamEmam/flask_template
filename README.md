@@ -51,4 +51,4 @@ Example:
 {% endblock %}
 ```
 *Note: Remember to include python variables in render_template()*
-*From the example above this would be a python dictionary `{'user':{'name':'myName', 'username':'myUsername'}}`*
+*From the example above this would be a python dictionary `users = {'user':{'name':'myName', 'username':'myUsername'}}`*
